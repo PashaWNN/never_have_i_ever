@@ -2,7 +2,7 @@
 
 Игра "Я никогда не..." на чистом JS
 
-[ссылка на игру](https://pashawnn.github.io/i_never_did/)
+[ссылка на игру](https://pashawnn.github.io/never_have_i_ever/)
 
 ## Правила
 
